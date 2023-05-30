@@ -1,0 +1,4 @@
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=RadekHankiewicz_ebiznes_sonar&metric=bugs)](https://sonarcloud.io/summary/new_code?id=RadekHankiewicz_ebiznes_sonar)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=RadekHankiewicz_ebiznes_sonar&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=RadekHankiewicz_ebiznes_sonar)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=RadekHankiewicz_ebiznes_sonar&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=RadekHankiewicz_ebiznes_sonar)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=RadekHankiewicz_ebiznes_sonar&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=RadekHankiewicz_ebiznes_sonar)
